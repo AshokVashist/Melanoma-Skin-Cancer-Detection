@@ -16,10 +16,8 @@
 
 
 ## Conclusions
-- Image augmentation got rid of overfitting
-- Rectifying the class imbalance got rid of underfitting
-
-
+- Image augmentation to rid of overfitting
+- Rectified the class imbalance to get  rid of underfitting
 
 
 ## Technologies Used (Not mentioned version as it keeps on changing)
@@ -30,7 +28,6 @@
 - Scikit-learn
 - Augmentor
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
 Created by [@AshokVashist] - feel free to contact me!
